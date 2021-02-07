@@ -1,3 +1,3 @@
-# HTMLDersleri
+# HTML Dersleri
 
 Ekte ve Devamında...
